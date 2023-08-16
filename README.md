@@ -3,7 +3,9 @@ Climatology and trends of snow cover over mountainous areas
 
 We compute climatology, trends of snow cover over mountainous areas with the SNOW-CCI data.
 
-First tests over the Alps, working on missing values. Martin Ménégoz
+First tests over the Alps, working on missing values. Martin Ménégoz: Alpine_snow_CCI.ipynb
+
+Analysis with data over the Alps and HMA: Snow_mountain_trends.ipynb
 
 ##############
 SNOW-CCI Data:
